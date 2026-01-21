@@ -34,8 +34,6 @@ SolarSystem-Simulation-pygame/
 ├── VersionFinale.py
 ├── VersionFinale2.py
 │
-├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
